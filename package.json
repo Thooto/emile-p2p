@@ -1,0 +1,22 @@
+{
+  "name": "emile-p2p",
+  "version": "1.0.0",
+  "description": "The original Emile game, using P2P",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/thooto/emile-p2p.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thooto/emile-p2p/issues"
+  },
+  "homepage": "https://github.com/thooto/emile-p2p#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
